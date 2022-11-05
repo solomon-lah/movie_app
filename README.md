@@ -1,16 +1,3 @@
 # briskit_assignment
 
-A movie list displays with authentication
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple movie application in Flutter. This app allows user to login and create account, displays list of popular movies as well as enabling searching. Demo of the application can be viewed via https://youtu.be/njHt_bBgDB4. For the application to work, you need to insert your firestore collection id and IMBD API KEY.  
